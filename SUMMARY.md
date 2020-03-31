@@ -12,5 +12,5 @@
 ## Windows
 
 * [Checking if your PC meets minimum system requirements](windows/checking-if-your-pc-meets-minimum-system-requirements.md)
-* Installing Adobe Creative Cloud applications on your PC
+* [Installing Adobe Creative Cloud applications on your PC](windows/installing-adobe-creative-cloud-applications-on-your-pc.md)
 
