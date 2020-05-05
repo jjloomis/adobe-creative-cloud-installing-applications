@@ -6,7 +6,7 @@ Adobe Creative Cloud: Installing Applications \| Home Edition \(macOS and Window
 
 ## Credits
 
-Written by Jeffrey John Loomis
+Written by Jeffrey John Loomis. \(check\).
 
 ## Other formats
 
